@@ -17,5 +17,6 @@ int main()
   div = 5 / (float)2;
 
   printf("Add: %d, Sub: %d, Mul: %d, Div: %.2f", add,sub,mul,div);
+  printf("=====================================================");
   return 0;
 }
